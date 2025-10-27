@@ -8,5 +8,6 @@ java -cp bin MainApplication avl
 
 O programa exibirá a impressão da árvore conforme os métodos são executados, mostrando visualmente como a estrutura se modifica após cada operação. Ao final, será exibida uma tabela com o tempo de execução de cada método, permitindo acompanhar a eficiência das operações.
 
-![img.png](img.png)
-![img_1.png](img_1.png)
+<img width="344" height="285" alt="image" src="https://github.com/user-attachments/assets/e18c8d23-8374-45d3-95e7-bf5c698b1762" />
+<img width="442" height="147" alt="image" src="https://github.com/user-attachments/assets/be80c3ff-339c-4425-8642-c15cc1b2fab2" />
+
